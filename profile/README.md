@@ -6,6 +6,9 @@
 </p>
 
 <p align="center">
+    <a href="hhttps://space.bilibili.com/15859660">
+        <img height="24px" src="https://www.bilibili.com/favicon.ico?v=1" />
+    </a>&nbsp;&nbsp;&nbsp;
     <a href="https://mohistmc.com/">
         <img height="24px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" />
     </a>&nbsp;&nbsp;&nbsp;
