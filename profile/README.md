@@ -33,7 +33,6 @@
 - [Mohist](https://github.com/MohistMC/Mohist) - Minecraft Forge server software implementing Bukkit/Spigot/Paper APIs.
 - [MohistNeo](https://github.com/MohistMC/MohistNeo) - NeoForge Hybrid server implementing the Spigot/Bukkit API.
 - [Banner](https://github.com/MohistMC/Banner) - The Bukkit/Spigot/Paper API implementation for Fabric.
-- [MohistKite](https://github.com/MohistMC/MohistKite) - A Paper mixin development framework.
 - [MohistAxle](https://github.com/MohistMC/MohistAxle) - BungeeCord fork that aims to improve performance and stability.
 
 ## :comet: Donations
