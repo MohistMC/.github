@@ -51,3 +51,4 @@
     src="https://img.shields.io/badge/opencollective-30363D?style=for-the-badge&logo=OpenCollective"
   />
 </a>
+<img src="https://profile-counter.glitch.me/MohistMC/count.svg"></a> people have visited this page
