@@ -28,7 +28,9 @@
 
 <h3 align="center">Hi there 👋</h3>
 <p align="center">MohistMC is a Minecraft software organization that focuses on developing hybrid Minecraft server software and other tools.</p>
-<p align="center">大道至简</p>
+
+<p align="center">I will no longer make a production version available to the public. Those who are capable can develop it themselves.  -- Mgazul</p>
+<p align="center">我不再制作大众可用的生产版本，有能力者可自行开发。  -- Mgazul</p>
 
 ## :star: Main projects
 - [Mohist](https://github.com/MohistMC/Mohist) - Minecraft Forge server software implementing Bukkit/Spigot/Paper APIs.
