@@ -29,14 +29,10 @@
 <h3 align="center">Hi there 👋</h3>
 <p align="center">MohistMC is a Minecraft software organization that focuses on developing hybrid Minecraft server software and other tools.</p>
 
-<p align="center">I will no longer make a production version available to the public. Those who are capable can develop it themselves.  -- Mgazul</p>
-<p align="center">我不再制作大众可用的生产版本，有能力者可自行开发。  -- Mgazul</p>
-<p align="center">Banner still keep in developement for production version avaliable to the public, do not worried.  -- wdog5</p>
-<p align="center">Banner仍在持续开发，可供公众使用，不必担心。  -- wdog5</p>
 
 ## :star: Main projects
 - [Mohist](https://github.com/MohistMC/Mohist) - Minecraft Forge server software implementing Bukkit/Spigot/Paper APIs.
-- [MohistNeo](https://github.com/MohistMC/MohistNeo) - NeoForge Hybrid server implementing the Spigot/Bukkit API.  1.21+
+- [Youer](https://github.com/MohistMC/Youer) - NeoForge Hybrid server implementing the Spigot/Bukkit API.  1.21+
 - [Banner](https://github.com/MohistMC/Banner) - The Bukkit/Spigot/Paper API implementation for Fabric.
 
 ## :comet: Donations
