@@ -51,4 +51,11 @@
     src="https://img.shields.io/badge/opencollective-30363D?style=for-the-badge&logo=OpenCollective"
   />
 </a>
+<a href="https://www.paypal.com/paypalme/Mgazul">
+  <img
+    height="32px"
+    alt="Donate using PayPal"
+    src="https://img.shields.io/badge/paypal-30363D?style=for-the-badge&logo=PayPal"
+  />
+</a>
 <img src="https://profile-counter.glitch.me/MohistMC/count.svg"></a> people have visited this page
