@@ -59,3 +59,26 @@
   />
 </a>
 <img src="https://profile-counter.glitch.me/MohistMC/count.svg"></a> people have visited this page
+
+@everyone 
+Sorry to bother you again, but it's important>  
+I will launch a personal crowdfunding to solve what happened to me last month https://discord.com/channels/311256119005937665/550911071188418571/1319508398743617537
+, so that I can continue to bring you more stable products and develop new products in the future.
+
+Crowdfunding amount: $7,000 (Dollar)  
+Deadline: Now -> 2025-01-09  
+Payment method:  
+  * Paypal: mgazul@163.com (low priority, because withdrawals require a $35 handling fee and take longer)
+  * Personal bank account:  
+     * Bank identification code: ICBKCNBJ  (CN: 工商银行)
+     * Account number: 6222032314001382689  
+     * Name: Guan Zhenghua  (CN: 官正华)
+  * Alipay(支付宝): 19205733141
+
+  * For other channels, please go to the sub-channel to ask https://discord.com/channels/311256119005937665/1325443663832285254
+
+When I resolve the debt dispute:
+1. Continue to maintain Mohist and develop new versions
+2. Develop the hybrid end of NeoForge
+3. Implement new products of Forge/NeoForge/Fabric + Paper api
+4. Promise that the above products can be downloaded and used permanently for free
