@@ -58,7 +58,8 @@
     src="https://img.shields.io/badge/paypal-30363D?style=for-the-badge&logo=PayPal"
   />
 </a>
-<img src="https://profile-counter.glitch.me/MohistMC/count.svg"></a> people have visited this page
+<img src="https://profile-counter.glitch.me/MohistMC/count.svg"></a> people have visited this page  
+
 
 @everyone 
 Sorry to bother you again, but it's important>  
