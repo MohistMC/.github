@@ -58,6 +58,13 @@
     src="https://img.shields.io/badge/paypal-30363D?style=for-the-badge&logo=PayPal"
   />
 </a>
+<a href="https://www.patreon.com/c/mohistmc">
+  <img
+    height="32px"
+    alt="Donate using Patreon"
+    src="https://img.shields.io/badge/Patreon-30363D?style=for-the-badge&logo=Patreon"
+  />
+</a>
 <img src="https://profile-counter.glitch.me/MohistMC/count.svg"></a> people have visited this page  
 
 
@@ -69,7 +76,7 @@ I will launch a personal crowdfunding to solve what happened to me last month ht
 Crowdfunding amount: $7,000 (Dollar)  
 Deadline: Now -> 2025-01-09  
 Payment method:  
-  * Paypal: mgazul@163.com (low priority, because withdrawals require a $35 handling fee and take longer)
+  * Paypal: mgazul@163.com
   * Personal bank account:  
      * Bank identification code: ICBKCNBJ  (CN: 工商银行)
      * Account number: 6222032314001382689  
