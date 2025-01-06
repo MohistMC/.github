@@ -65,7 +65,7 @@
     src="https://img.shields.io/badge/Patreon-30363D?style=for-the-badge&logo=Patreon"
   />
 </a>
-<img src="https://profile-counter.glitch.me/MohistMC/count.svg"></a> people have visited this page  
+<img src="https://profile-counter.glitch.me/MohistMC/count.svg"></a>
 
 
 @everyone 
@@ -90,3 +90,14 @@ When I resolve the debt dispute:
 2. Develop the hybrid end of NeoForge
 3. Implement new products of Forge/NeoForge/Fabric + Paper api
 4. Promise that the above products can be downloaded and used permanently for free
+
+If the crowdfunding fails: the copyright and ownership of the existing versions of Mohist will be sold  
+Including versions (1.7.10 1.12.2 1.16.5 1.18.2 1.19.2 1.19.4 1.20.1 1.20.2)  
+Contact information:  
+1. QQ 2634905535
+2. Email: mgazul@163.com
+
+如果众筹失败将：出售Mohist现有版本的著作权和所有权,包含版本(1.7.10 1.12.2 1.16.5 1.18.2 1.19.2 1.19.4 1.20.1 1.20.2)  
+联系方式：  
+ 1. QQ 2634905535
+ 2. 邮箱：mgazul@163.com
