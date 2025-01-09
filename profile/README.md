@@ -65,39 +65,4 @@
     src="https://img.shields.io/badge/Patreon-30363D?style=for-the-badge&logo=Patreon"
   />
 </a>
-<img src="https://profile-counter.glitch.me/MohistMC/count.svg"></a>
-
-
-@everyone 
-Sorry to bother you again, but it's important>  
-I will launch a personal crowdfunding to solve what happened to me last month https://discord.com/channels/311256119005937665/550911071188418571/1319508398743617537
-, so that I can continue to bring you more stable products and develop new products in the future.
-
-Crowdfunding amount: $7,000 (Dollar)  
-Deadline: Now -> 2025-01-09  
-Payment method:  
-  * Paypal: mgazul@163.com
-  * Personal bank account:  
-     * Bank identification code: ICBKCNBJ  (CN: 工商银行)
-     * Account number: 6222032314001382689  
-     * Name: Guan Zhenghua  (CN: 官正华)
-  * Alipay(支付宝): 19205733141
-
-  * For other channels, please go to the sub-channel to ask https://discord.com/channels/311256119005937665/1325443663832285254
-
-When I resolve the debt dispute:
-1. Continue to maintain Mohist and develop new versions
-2. Develop the hybrid end of NeoForge
-3. Implement new products of Forge/NeoForge/Fabric + Paper api
-4. Promise that the above products can be downloaded and used permanently for free
-
-If the crowdfunding fails: the copyright and ownership of the existing versions of Mohist will be sold  
-Including versions (1.7.10 1.12.2 1.16.5 1.18.2 1.19.2 1.19.4 1.20.1 1.20.2)  
-Contact information:  
-1. QQ 2634905535
-2. Email: mgazul@163.com
-
-如果众筹失败将：出售Mohist现有版本的著作权和所有权,包含版本(1.7.10 1.12.2 1.16.5 1.18.2 1.19.2 1.19.4 1.20.1 1.20.2)  
-联系方式：  
- 1. QQ 2634905535
- 2. 邮箱：mgazul@163.com
+<img src="https://profile-counter.glitch.me/MohistMC/count.svg"/> people has visited this page.
