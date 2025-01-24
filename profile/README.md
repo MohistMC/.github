@@ -24,6 +24,9 @@
     <a href="https://www.youtube.com/@mohistmc" >
         <img height="24px" src="https://img.freepik.com/free-icon/youtube_318-566773.jpg" />
     </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://qm.qq.com/q/N4IqFA1rag" >
+        <img height="24px" src="https://simpleicons.org/icons/qq.svg" />
+    </a>
 </p>
 
 <h3 align="center">Hi there 👋</h3>
