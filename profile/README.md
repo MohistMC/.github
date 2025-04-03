@@ -38,6 +38,8 @@
 - [Youer](https://github.com/MohistMC/Youer) - NeoForge Hybrid server implementing the Spigot/Bukkit API.  1.21+
 - [Banner](https://github.com/MohistMC/Banner) - The Bukkit/Spigot/Paper API implementation for Fabric.
 
+![:MohistMC](https://count.kjchmc.cn/get/@:MohistMC?theme=minecraft)
+
 ## :comet: Donations
 
 <a href="https://github.com/sponsors/MohistMC">
@@ -68,4 +70,3 @@
     src="https://img.shields.io/badge/Patreon-30363D?style=for-the-badge&logo=Patreon"
   />
 </a>
-<img src="https://profile-counter.glitch.me/MohistMC/count.svg"/> people has visited this page.
