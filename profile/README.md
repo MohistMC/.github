@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="150px" src="https://avatars.githubusercontent.com/u/54493246" alt="MohistMC Logo" />
+  <img height="80px" src="https://avatars.githubusercontent.com/u/54493246" alt="MohistMC Logo" />
   <h1 align="center">MohistMC</h1>
 </p>
 
