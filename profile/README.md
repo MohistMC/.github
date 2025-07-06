@@ -24,9 +24,6 @@
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://qm.qq.com/q/N4IqFA1rag" >
         <img height="24px" src="https://simpleicons.org/icons/qq.svg" />
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://ifdian.net/a/MohistMC">
-        <img height="24px" src="https://static.afdiancdn.com/static/img/logo/logo.png" />
     </a>
 </p>
 
