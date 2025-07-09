@@ -8,7 +8,6 @@
 ## ⭐ Main projects
 - <img src="/img/mohist.webp" width="20" />&nbsp;[Mohist](https://github.com/MohistMC/Mohist) - Minecraft Forge server software implementing Bukkit/Spigot APIs.
 - <img src="/img/youer.webp" width="20" />&nbsp;[Youer](https://github.com/MohistMC/Youer) - NeoForge Hybrid server implementing the Bukkit/Spigot/Paper API. 1.21+
-- <img src="/img/silkard.webp" width="20" />&nbsp;[Silkard](https://github.com/MohistMC/Silkard) - Fabric Hybrid server implementing the Bukkit/Spigot/Paper API. 1.20.1/1.21+
 
 ![MohistMC](https://count.kjchmc.cn/get/@:MohistMC?theme=minecraft)
 
