@@ -9,9 +9,7 @@
 - <img src="/img/mohist.webp" width="20" />&nbsp;[Mohist](https://github.com/MohistMC/Mohist) - Minecraft Forge server software implementing Bukkit/Spigot APIs.
 - <img src="/img/youer.webp" width="20" />&nbsp;[Youer](https://github.com/MohistMC/Youer) - NeoForge Hybrid server implementing the Bukkit/Spigot/Paper API. 1.21+
 
-![MohistMC](https://count.kjchmc.cn/get/@:MohistMC?theme=minecraft)
-
-**Quickstart:**
+## 🍀 Quickstart:
 - Learn more and find downloads on [mohistmc.com](https://mohistmc.com/)
 - Support us by donating through [OpenCollective](https://opencollective.com/mohist)
 - Join our community by chatting on our Discord server:
@@ -20,7 +18,7 @@
          <img alt="MohistMC Discord" src="https://discord.com/api/guilds/311256119005937665/widget.png?style=banner2">
 </a>
 
-## ☄️ Donations
+## 🎉 Donations
 
 <a href="https://github.com/sponsors/MohistMC">
   <img height="32px" alt="Donate using GitHub" src="https://img.shields.io/badge/github%20sponsors-30363D?style=for-the-badge&logo=GitHub-Sponsors" />
