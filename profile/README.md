@@ -11,6 +11,15 @@
 
 ![MohistMC](https://count.kjchmc.cn/get/@:MohistMC?theme=minecraft)
 
+**Quickstart:**
+- Learn more and find downloads on [mohistmc.com](https://mohistmc.com/)
+- Support us by donating through [OpenCollective](https://opencollective.com/mohist)
+- Join our community by chatting on our Discord server:
+
+<a href="https://discord.gg/mohistmc">
+         <img alt="MohistMC Discord" src="https://discord.com/api/guilds/311256119005937665/widget.png?style=banner2">
+</a>
+
 ## ☄️ Donations
 
 <a href="https://github.com/sponsors/MohistMC">
