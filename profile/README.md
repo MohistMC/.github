@@ -11,7 +11,7 @@
 
 ## 🍀 Quickstart:
 - Learn more and find downloads on [mohistmc.com](https://mohistmc.com/)
-- Support us by donating through [OpenCollective](https://opencollective.com/mohist)
+- Support us by donating through [Patreon](https://www.patreon.com/c/mohistmc)
 - Join our community by chatting on our Discord server:
 
 <a href="https://discord.gg/mohistmc">
@@ -22,9 +22,6 @@
 
 <a href="https://github.com/sponsors/MohistMC">
   <img height="32px" alt="Donate using GitHub" src="https://img.shields.io/badge/github%20sponsors-30363D?style=for-the-badge&logo=GitHub-Sponsors" />
-</a>
-<a href="https://opencollective.com/mohist">
-  <img height="32px" alt="Donate using OpenCollective" src="https://img.shields.io/badge/opencollective-30363D?style=for-the-badge&logo=OpenCollective" />
 </a>
 <a href="https://www.paypal.com/paypalme/Mgazul">
   <img height="32px" alt="Donate using PayPal" src="https://img.shields.io/badge/paypal-30363D?style=for-the-badge&logo=PayPal" />
