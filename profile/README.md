@@ -7,7 +7,7 @@
 
 ## ⭐ Main projects
 - <img src="/img/mohist.webp" width="20" />&nbsp;[Mohist](https://github.com/MohistMC/Mohist) - Minecraft Forge server software implementing Bukkit/Spigot APIs.
-- <img src="/img/youer.webp" width="20" />&nbsp;[Youer](https://github.com/MohistMC/Youer) - NeoForge Hybrid server implementing the Bukkit/Spigot/Paper API. 1.21+
+- <img src="/img/youer.webp" width="20" />&nbsp;[Youer](https://github.com/MohistMC/Youer) - NeoForge Hybrid server implementing the Bukkit/Spigot/Paper/Purpur API. 1.21+
 
 ## 🍀 Quickstart:
 - Learn more and find downloads on [mohistmc.com](https://mohistmc.com/)
