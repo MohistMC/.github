@@ -6,7 +6,6 @@
 <p align="center">MohistMC is a Minecraft software organization that focuses on developing hybrid Minecraft server software and other tools.</p>
 
 ## ⭐ Main projects
-- <img src="/img/mohist.webp" width="20" />&nbsp;[Mohist](https://github.com/MohistMC/Mohist) - Minecraft Forge server software implementing Bukkit/Spigot APIs.
 - <img src="/img/youer.webp" width="20" />&nbsp;[Youer](https://github.com/MohistMC/Youer) - NeoForge Hybrid server implementing the Paper/Purpur API. 1.21+
 
 ## 🍀 Quickstart:
