@@ -27,4 +27,6 @@
 </a>
 <a href="https://www.patreon.com/c/mohistmc">
   <img height="32px" alt="Donate using Patreon" src="https://img.shields.io/badge/Patreon-30363D?style=for-the-badge&logo=Patreon" />
-</a>
+</a>  
+
+<a href="https://githubroast.dev/u/MohistMC"><img src="https://githubroast.dev/api/card/MohistMC?theme=dark" alt="GitHub Roast" width="600" /></a>
