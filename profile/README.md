@@ -9,7 +9,7 @@
 - <img src="/img/youer.webp" width="20" />&nbsp;[Youer](https://github.com/MohistMC/Youer) - NeoForge Hybrid server implementing the Paper/Purpur API. 1.21+
 
 ## 🍀 Quickstart:
-- Learn more and find downloads on [mohistmc.com](https://mohistmc.com/) or [mohistmc.cn](https://www.mohistmc.cn/)
+- Learn more and find downloads on [mohistmc.com](https://mohistmc.com/)
 - Support us by donating through [Patreon](https://www.patreon.com/c/mohistmc)
 - Join our community by chatting on our Discord server:
 
@@ -27,6 +27,9 @@
 </a>
 <a href="https://www.patreon.com/c/mohistmc">
   <img height="32px" alt="Donate using Patreon" src="https://img.shields.io/badge/Patreon-30363D?style=for-the-badge&logo=Patreon" />
-</a>  
+</a>
+<a href="https://ifdian.net/a/MohistMC ">
+  <img height="32px" alt="Donate using GitHub" src="https://img.shields.io/badge/爱发电-30363D?style=for-the-badge&logo=ifdian" />
+</a>
 
 <a href="https://githubroast.dev/u/MohistMC"><img src="https://githubroast.dev/api/card/MohistMC?theme=dark" alt="GitHub Roast" width="600" /></a>
