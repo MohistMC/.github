@@ -31,5 +31,3 @@
 <a href="https://ifdian.net/a/MohistMC ">
   <img height="32px" alt="Donate using GitHub" src="https://img.shields.io/badge/爱发电-30363D?style=for-the-badge&logo=ifdian" />
 </a>
-
-<a href="https://githubroast.dev/u/MohistMC"><img src="https://githubroast.dev/api/card/MohistMC?theme=dark" alt="GitHub Roast" width="600" /></a>
